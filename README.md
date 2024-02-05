@@ -1,4 +1,4 @@
-<h1>Spam Email detection</h1> 
+<h1>Spam Email Detection</h1> 
 
 prepare.ipynb 
 - explore the dataset i.e. emails, their length, most frequently occurred words

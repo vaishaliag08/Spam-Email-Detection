@@ -4,6 +4,7 @@ prepare.ipynb
 - explore the dataset i.e. emails, their length, most frequently occurred words
 - preprocess the dataset
 - split the data into train, validation and test sets
+- save them in .csv files
 
 train.ipynb
 - vectroize the emails using TF-IDF Vectorization
